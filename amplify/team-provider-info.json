@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "tracys-brow-lab-dev-20190908111430-authRole",
+            "UnauthRoleArn": "arn:aws:iam::400230333539:role/tracys-brow-lab-dev-20190908111430-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::400230333539:role/tracys-brow-lab-dev-20190908111430-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "tracys-brow-lab-dev-20190908111430-deployment",
+            "UnauthRoleName": "tracys-brow-lab-dev-20190908111430-unauthRole",
+            "StackName": "tracys-brow-lab-dev-20190908111430",
+            "StackId": "arn:aws:cloudformation:us-east-1:400230333539:stack/tracys-brow-lab-dev-20190908111430/c692d1a0-d253-11e9-a1c9-12dffdf25cac"
+        }
+    }
+}
